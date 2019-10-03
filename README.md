@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 SMTP Magento Extension support all SMTP servers and also support SSL Authentication.

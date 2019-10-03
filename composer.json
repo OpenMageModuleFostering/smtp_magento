@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/SMTP_Magento",
+    "name": "openmage-module-fostering\/smtp_magento",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
